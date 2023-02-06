@@ -1,1 +1,16 @@
 
+# change-default-application-name
+spring:
+  application:
+    name: Config-Prod
+
+# eureka
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka  
+      
