@@ -1,4 +1,9 @@
 
+# change-default-application-name
+spring:
+  application:
+    name: USER-SERVICE
+
 # eureka
 eureka:
   instance:
