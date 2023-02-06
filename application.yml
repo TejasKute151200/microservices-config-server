@@ -2,7 +2,7 @@
 # change-default-application-name
 spring:
   application:
-    name: Config-Default
+    name: Config-Dev
 
 # eureka
 eureka:
