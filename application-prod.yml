@@ -1,8 +1,8 @@
 
-# change-default-application-name
-spring:
-  application:
-    name: Config-Prod
+# # change-default-application-name
+# spring:
+#   application:
+#     name: Config-Prod
 
 # eureka
 eureka:
